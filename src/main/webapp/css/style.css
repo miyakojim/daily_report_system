@@ -87,7 +87,7 @@ Chapter 15.3 フラッシュメッセージ 装飾
 }
 
 /*
-Chapter 15.4 入力内容のチェック（バリデーション） 装飾
+L16 Chapter 15.4 入力内容のチェック（バリデーション） 装飾
 */
 #flush_error {
     width: 100%;
@@ -97,5 +97,25 @@ Chapter 15.4 入力内容のチェック（バリデーション） 装飾
     margin-bottom: 15px;
     color: #721c24;
     background-color: #f8d7da;
+}
+
+/*
+L17 Chapter 6.6 Employeeに対するアクションとビューの作成1：indexの作成
+*/
+table#employee_list th {
+    width: 30%;
+    padding: 10px 2%;
+}
+
+table#employee_list td {
+    width: 29%;
+    padding: 10px 2%;
+}
+
+tr.row1 {
+        background-color: #f2f2f2;
+}
+tr.row0 {
+        background-color: #ffffff;
 }
 
