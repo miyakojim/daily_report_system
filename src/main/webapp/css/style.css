@@ -119,3 +119,12 @@ tr.row0 {
         background-color: #ffffff;
 }
 
+
+/*
+L17 Chapter 6.7 Employeeに対するアクションとビューの作成2：new
+*/
+select {
+    height: 30px;
+}
+
+
