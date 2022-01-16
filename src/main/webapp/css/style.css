@@ -190,3 +190,11 @@ table#report_list .report_action {
 }
 
 
+
+/*
+L17 Chapter 9.9 Reportに対するアクションとビューの作成4：show
+*/
+pre {
+    font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
+}
+
